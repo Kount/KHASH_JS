@@ -4,7 +4,12 @@
 ***Usage***
 
 ```
+# bash
+export CONFIG_KEY=<kount configuration key provided to clients>
+```
+
+```
 const khash = require('./khash');
-var result = khash.hash("4111111111111111", 14);
+var PTOK = khash.hash("4111111111111111", 14);
 
 ```
