@@ -1,0 +1,17 @@
+{
+  "name": "kountjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "khash.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
