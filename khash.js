@@ -198,6 +198,3 @@ const khash = {
 }
 
 module.exports = khash;
-
-//k = hash(4111111111111111, 14)
-//console.log(k);
